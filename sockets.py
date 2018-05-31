@@ -1,4 +1,4 @@
 import os
 import sys
 
-time = 5
+time = 10
